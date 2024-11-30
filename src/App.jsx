@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
+import "./App.css"
 import { 
   Plus, Undo, Redo, 
   Bold, Italic, Underline, 
